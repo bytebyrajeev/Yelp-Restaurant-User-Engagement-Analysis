@@ -107,14 +107,6 @@ The project utilizes data from five main JSON files:
    - `Yelp_Data_Preparation_and_Database_Creation.ipynb` → for data setup  
    - `Yelp_User_Engagement_Analysis.ipynb` → for analysis and visualization  
 
----
-
-## 📸 Example Visualizations
-- Correlation Heatmap of Engagement Metrics  
-- City-Wise Success Scores  
-- Elite vs Non-Elite User Contribution  
-- Hourly Engagement Patterns  
-*(Add images in the `visuals/` folder and embed them here.)*
 
 ---
 
@@ -129,7 +121,7 @@ The project utilizes data from five main JSON files:
 ---
 
 ## 🧾 Author
-**Your Name**  
+**Rajeev Ranjan**  
 📧 rajeev108.tech@gmail.com  
 🔗 www.linkedin.com/in/rajeev-tech1  
 📂 https://github.com/bytebyrajeev
